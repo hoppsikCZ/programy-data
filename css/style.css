@@ -70,3 +70,9 @@ dt {
     font-size: 125%;
     color: aqua;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(187, 255, 0);
+    }
+}
