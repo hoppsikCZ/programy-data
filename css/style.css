@@ -27,11 +27,12 @@ a {
 }
 
 a:hover {
-    background-color: blueviolet;
+    background-color: darkgray;
 }
 
 abbr {
     text-decoration-line: underline;
+    text-decoration-style: solid;
 }
 
 body {
