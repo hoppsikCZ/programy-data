@@ -23,7 +23,8 @@ h3 {
 
 a {
     color: #ff0000;
-    text-decoration-line: none;
+    text-decoration-line: underline;
+    text-decoration: solid;
 }
 
 a:hover {
@@ -31,8 +32,8 @@ a:hover {
 }
 
 abbr {
-    text-decoration-line: underline;
-    text-decoration-style: solid;
+    text-decoration-line: none;
+    font-weight: bold;
 }
 
 body {
